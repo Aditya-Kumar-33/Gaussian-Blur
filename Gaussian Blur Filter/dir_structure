@@ -1,0 +1,12 @@
+CUDA-Gaussian-Blur-Filter/
+│
+├── src/
+│   └── gaussian_blur.cu        # Main CUDA code for Gaussian blur filter
+│
+├── build/
+│   └── Makefile                # Makefile for compiling the project
+│
+├── input.jpg                   # Example input image for testing
+├── output.jpg                  # Output image after applying Gaussian blur
+├── README.md                   # Project description and instructions
+└── LICENSE                     # License for the project (e.g., MIT)
