@@ -26,3 +26,6 @@ This project applies a Gaussian blur filter to an image using CUDA for GPU accel
 
 ### Output
 The output image will be saved as output.jpg.
+
+![output](https://github.com/user-attachments/assets/867f53b6-e721-4053-8e9b-dae8a7f9ed33)
+![input](https://github.com/user-attachments/assets/785dc397-b393-4a68-865f-f917d116fdb7)
